@@ -1,9 +1,12 @@
 # Badsoffware
 
-2-player online tag game in a single `index.html`. Two mecha pilots chase each other round a dark computer desktop for 2 minutes. Most tags wins.
+2-4 player tag game in a single `index.html`. Portrait phone screens. Robots climb a 2-screen
+city tower on the same Wi-Fi; the It robot passes It on by touching another robot. Catch a
+Badsoffware drone for a one-shot power-up. Least total time as It wins.
 
 Play: https://soffianz.github.io/badsoffware_Game/
 
-Two phones on the same Wi-Fi: one taps HOST GAME, the other taps JOIN GAME and types the 4 letter code. Or tap PRACTICE VS BOT.
+Host taps HOST GAME and shares the 4 letter room code; others tap JOIN GAME and type it in. Or
+tap PRACTICE VS BOTS to play offline against 1-3 bots.
 
-Development source and docs live in the private `badsoffware` repo.
+Development source, docs and tests live in the private `badsoffware` repo.
